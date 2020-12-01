@@ -1,0 +1,6 @@
+{
+  "network": "mainnet",
+  "governorAlphaAddress": "0x9AD1F51821c31170e35437Efde621ebC71081575",
+  "sirenTokenAddress": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+  "startBlock": 11253651
+}

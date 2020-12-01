@@ -1,0 +1,6 @@
+{
+  "network": "rinkeby",
+  "governorAlphaAddress": "0xdB6845D9FDEC331972e2f16Da20Ef8d233c45245",
+  "sirenTokenAddress": "0x22Eee33306501a3Df59731EE356e0ef980c9b4E0",
+  "startBlock": 7623048
+}
